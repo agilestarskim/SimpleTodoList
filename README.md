@@ -15,14 +15,5 @@
 
 #### 3.UI
 
-## 메인화면
+![TodoList UI](https://user-images.githubusercontent.com/79740398/142458054-3d3f7fe2-896b-4794-b464-3978e0e53385.jpg)
 
-<img width="30%" src="https://user-images.githubusercontent.com/79740398/142454466-5281fdbf-f8b2-4734-889e-83269e7b411c.jpeg"/>
-
-## 완료
-
-<img width="30%" src="https://user-images.githubusercontent.com/79740398/142455138-2517ca0c-5e3e-4b9a-acc7-3dd81bc695c8.jpeg"/>
-
-## 할 일 추가
-
-<img width="30%" src="https://user-images.githubusercontent.com/79740398/142455342-13a63983-5a39-40e6-862a-46a4ccb5a3d9.jpeg"/>
